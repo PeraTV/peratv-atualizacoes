@@ -1,5 +1,7 @@
 # PeraTV
 
+**Baixar pelo Downloader:** digite o código **1710293**
+
 **Sua TV, seus aplicativos, sua aparência.**
 
 A PeraTV é uma launcher para Android TV, Google TV e TV boxes compatíveis. Ela organiza os aplicativos instalados em uma tela inicial personalizável, com navegação pelo controle remoto, temas diferentes e acesso rápido aos ajustes da TV.
