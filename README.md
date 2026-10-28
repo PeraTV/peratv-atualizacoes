@@ -85,3 +85,5 @@ O efeito de vidro combina transparências, degradês e desfoque conforme o recur
 As imagens desta página são montagens de **capturas reais enviadas pelo criador**, com títulos e legendas. As telas não foram redesenhadas. Algumas capturas registram mensagens temporárias de aplicação do tema. A captura do atualizador mostra uma instalação 1.7.19 encontrando a 1.7.20, como exemplo do fluxo de atualização.
 
 **Feito por Fernando.**
+
+**Se quiser Suporte ou dicas de personalização, basta chamar no telegram @FernandoRGH**
