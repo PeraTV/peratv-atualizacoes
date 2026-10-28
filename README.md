@@ -86,4 +86,4 @@ As imagens desta página são montagens de **capturas reais enviadas pelo criado
 
 **Feito por Fernando.**
 
-**Se quiser Suporte ou dicas de personalização, basta chamar no telegram @FernandoRGH**
+**Se quiser Suporte ou quiser que faça ajustes de personalização etc. basta chamar no telegram @FernandoRGH**
