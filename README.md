@@ -1,120 +1,112 @@
-# PeraTV
+# PeraTV para Android TV
 
-**Baixar pelo Downloader:** digite o código **1710293**
+O PeraTV, criado por **Fernando**, reúne os aplicativos instalados na TV em uma tela inicial que você organiza com o controle remoto. Escolha entre **11 temas**, fixe seus favoritos e consulte o clima e o futebol sem sair da tela inicial.
 
-**Sua TV, seus aplicativos, sua aparência.**
+**Código do Downloader: 9411435** · [Baixar o APK pelo GitHub Releases](https://github.com/PeraTV/peratv-atualizacoes/releases/latest)
 
-A PeraTV é uma launcher para Android TV, Google TV e TV boxes compatíveis. Ela organiza os aplicativos instalados em uma tela inicial personalizável, com navegação pelo controle remoto, temas diferentes e acesso rápido aos ajustes da TV.
+![Tela inicial do PeraTV Original](docs/capturas/original.webp)
 
-O projeto foi criado por **Fernando** e vem sendo aprimorado a partir do uso e das sugestões recebidas. É um aplicativo de tela inicial: não substitui o Android nem instala uma nova ROM.
+## Instalação e primeiros passos
 
-[Baixar a versão mais recente](https://github.com/PeraTV/peratv-atualizacoes/releases/latest)
+1. Em uma Android TV, Google TV ou TV box compatível com **Android 7.1 ou superior**, abra o Downloader e digite **9411435**, ou baixe o APK na página de lançamentos acima.
+2. Abra o arquivo e confirme a instalação no Android. Se solicitado, permita que o aplicativo usado para abrir o APK instale aplicativos dessa origem.
+3. Abra o PeraTV. Para usá-lo ao pressionar a tecla de início, selecione **Tornar padrão** quando disponível. A escolha da tela inicial depende do fabricante.
+4. Use as **setas** para navegar, **OK** para abrir, **OK prolongado** para ver opções e **Voltar** para retornar. Os serviços e aplicativos visíveis nas capturas são os que estavam instalados no aparelho de demonstração.
 
-## Oito temas no mesmo aplicativo
+## Temas padrão
 
-![Galeria dos oito temas da PeraTV](01-temas-peratv.png)
+Abra **Aparência → Temas**, escolha um layout, confira a prévia e selecione **Aplicar tema**. Os favoritos e as personalizações são preservados. Nos temas compatíveis, use o sol ou a lua para alternar o modo.
 
-Cada tema tem sua própria composição. A troca preserva seus aplicativos e favoritos, sem exigir a instalação de outra launcher.
-
-
-
-| Tema | Como é |
+| Tema | Como os aplicativos aparecem |
 | --- | --- |
-| **PeraTV Original** | Identidade clássica da PeraTV, favoritos em uma barra horizontal e atalhos de uso diário. |
-| **Safira** | Fundo azul, grade de aplicativos e relógio em destaque na lateral. |
-| **Ateliê** | Visual claro e minimalista, menu lateral e cartões horizontais organizados em colunas. |
-| **Ônix** | Grade de cartões com aparência sóbria. Oferece modo claro ou escuro e ícones monocromáticos ou coloridos. |
-| **Órbita** | Carrossel com cartões laterais inclinados e aplicativo central em destaque. Oferece modo claro ou escuro, escolha de ícones e opção de visual colorido. |
-| **Radial** | Roda fixa de seis posições, com modos claro e escuro. Uma posição vazia permite adicionar um app; segure OK para trocar e organizar favoritos. |
-| **Pilha** | Cartões sobrepostos com profundidade, versões clara e escura e transparência ajustável de 0 a 100%. |
-| **Prisma** | Mosaico assimétrico com cartões de tamanhos diferentes, efeito de vidro e modos claro e escuro. A tela inicial exibe até cinco favoritos e o acesso a todos os apps. |
+| PeraTV Original | Barra horizontal de favoritos, relógio, saudação e atalhos para ferramentas. |
+| Órbita | Carrossel em perspectiva, com o aplicativo selecionado no centro. |
+| Prisma | Mosaico de cartões de vidro de tamanhos diferentes e menu lateral. |
+| Radial | Roda de seis posições. Escolha uma posição livre para adicionar um app ou segure OK para reorganizar. |
+| Pilha | Cartões sobrepostos. O cartão da frente mostra o app que será aberto. A transparência é ajustável. |
+| Âmbar | Duas colunas de favoritos ao redor do menu central. Os cartões têm reflexo de vidro e o foco aparece em creme. |
+| Editorial | Faixa de ícones abaixo de “Seu espaço”. A bolinha e o traço acompanham o foco com a cor do app. |
 
-Para escolher, abra **Aparência → Temas**, veja a prévia e confirme em **Aplicar tema**. Nos temas compatíveis, o seletor de sol e lua alterna entre claro e escuro. A preferência permanece salva.
-
-## Radial — claro e escuro
-
-Capturas reais da launcher em execução. Os aplicativos mostrados dependem do que está instalado no aparelho.
-
-| Claro | Escuro |
+| Âmbar no modo escuro | Âmbar no modo claro |
 | --- | --- |
-| ![Radial claro](radial-claro.png) | ![Radial escuro](radial-escuro.png) |
+| ![Âmbar no modo escuro](docs/capturas/ambar-escuro.webp) | ![Âmbar no modo claro](docs/capturas/ambar-claro.webp) |
 
-## Pilha — claro e escuro
-
-| Claro | Escuro |
+| Editorial no modo escuro | Editorial no modo claro |
 | --- | --- |
-| ![Pilha clara](pilha-claro.png) | ![Pilha escura](pilha-escuro.png) |
+| ![Editorial no modo escuro](docs/capturas/editorial-escuro.webp) | ![Editorial no modo claro](docs/capturas/editorial-claro.webp) |
 
-## Personalize do seu jeito
+| Órbita no modo escuro | Órbita no modo claro |
+| --- | --- |
+| ![Órbita no modo escuro](docs/capturas/orbita-escuro.webp) | ![Órbita no modo claro](docs/capturas/orbita-claro.webp) |
 
-![Menu de aparência e opções de personalização](02-personalizacao-peratv.png)
+| Prisma no modo escuro | Prisma no modo claro |
+| --- | --- |
+| ![Prisma no modo escuro](docs/capturas/prisma-escuro.webp) | ![Prisma no modo claro](docs/capturas/prisma-claro.webp) |
 
-- **Paletas e fundos:** escolha uma paleta, um dos fundos da galeria ou uma imagem própria. O escurecimento ajuda a manter os textos legíveis.
-- **Cartões:** ajuste a cor automática baseada no ícone, use uma cor neutra ou personalize por aplicativo. Há controles de intensidade da cor, transparência e desfoque.
-- **Ícones:** use a identificação do aplicativo ou escolha um ícone personalizado. As opções de ícones em cores do Ônix e do Órbita são independentes do modo claro ou escuro.
-- **Logotipo:** mantenha a PeraTV, coloque sua própria imagem ou use um texto com as fontes disponíveis no Android da TV.
-- **Seleção do controle:** ajuste a borda de foco para reconhecer o aplicativo selecionado com mais facilidade.
-- **Restaurar tema:** retorne às opções visuais padrão quando quiser desfazer personalizações. A ação pede confirmação e informa o alcance da restauração; aplicativos e favoritos são mantidos.
+| Radial no modo escuro | Radial no modo claro |
+| --- | --- |
+| ![Radial no modo escuro](docs/capturas/radial-escuro.webp) | ![Radial no modo claro](docs/capturas/radial-claro.webp) |
 
-**Imagens recomendadas:** wallpaper em 1920 × 1080 pixels, proporção 16:9; logotipo em PNG transparente, 720 × 240 pixels, proporção 3:1. A launcher aceita imagens de até 20 MB. Fundos com outras proporções podem ser recortados para preencher a tela.
+| Pilha no modo escuro | Pilha no modo claro |
+| --- | --- |
+| ![Pilha no modo escuro](docs/capturas/pilha-escuro.webp) | ![Pilha no modo claro](docs/capturas/pilha-claro.webp) |
 
-## Como usar pelo controle
+## TEMA: Desenhos/Animes
 
-Use as **setas** para navegar, **OK** para abrir e **Voltar** para retornar. Ao **segurar OK** em um aplicativo, aparecem as ações disponíveis naquele local.
+Em **Aparência → TEMA: Desenhos/Animes**, há quatro telas com navegação própria. **Mistério** usa uma lista lateral e um painel oval roxo. **Meninas Superpoderosas** reúne os apps em uma faixa clara sobre Townsville. **Naruto** mostra o ícone, uma descrição e o botão de abertura em um painel central. Em **Cápsulas**, as setas percorrem os favoritos e o app selecionado ocupa a cápsula iluminada do meio.
 
-Em **Todos os aplicativos**, é possível adicionar ou remover favoritos, trocar o ícone, mover, ocultar, criar ou adicionar a uma pasta, abrir as informações do app e solicitar sua desinstalação. A desinstalação depende da confirmação do Android; aplicativos de sistema podem ter restrições. Apps ocultos podem ser mostrados novamente em **Aparência → Personalizar → Aplicativos ocultos**.
+| Mistério | Meninas Superpoderosas |
+| --- | --- |
+| ![Mistério](docs/capturas/misterio.webp) | ![Meninas Superpoderosas](docs/capturas/meninas-superpoderosas.webp) |
 
-A organização da lista de todos os apps é independente da ordem dos favoritos. Também existem opções de backup e restauração das configurações da launcher.
+| Naruto | Cápsulas |
+| --- | --- |
+| ![Naruto](docs/capturas/naruto.webp) | ![Cápsulas](docs/capturas/capsulas.webp) |
 
-## Recursos do dia a dia
+## Aparência e personalização
 
-![Atualizações, aplicativos e ferramentas da PeraTV](03-recursos-peratv.png)
+Em **Aparência**, abra **Temas** para os layouts padrão ou entre na categoria de desenhos e animes. **Restaurar tema** retorna os ajustes visuais ao padrão e preserva a organização dos apps.
 
-**Clima:** mostra a cidade escolhida, temperatura e condição disponíveis pela integração Open-Meteo. Precisa de conexão para consultar novos dados e informa quando eles foram atualizados.
+![Menu Aparência](docs/capturas/aparencia.webp)
 
-**Jogos de hoje:** consulta partidas, horários, placares e escudos quando fornecidos pela fonte. Inclui classificação por competição, temporada e grupos quando disponível. A transmissão só é informada quando a fonte fornece esse dado; o canal não é garantido em todos os jogos. A navegação pelo controle permite avançar na grade sem selecionar a seta de página. A cobertura e os placares dependem da ESPN e podem sofrer atrasos. Esse painel consulta informações; não transmite as partidas.
+| Seleção de temas padrão | Seleção de desenhos e animes |
+| --- | --- |
+| ![Seleção de temas padrão](docs/capturas/categoria-temas.webp) | ![Seleção de desenhos e animes](docs/capturas/categoria-animes.webp) |
 
-**Atalhos da TV:** Entradas, Wi-Fi, Bluetooth e Ajustes abrem as opções disponíveis no aparelho. O funcionamento pode variar conforme o Android e o fabricante.
+- **Fundos e logotipo.** Escolha uma paleta, um dos 14 fundos da galeria ou uma imagem própria. Para a TV, prefira um fundo de 1920 × 1080 e um logotipo PNG transparente de 720 × 240. O limite de imagem é 20 MB. Também é possível usar texto no lugar do logotipo.
+- **Cartões e foco.** Ajuste cor, intensidade, transparência, desfoque e borda de seleção conforme o tema.
+- **Ícones.** Segure OK sobre um app para escolher um ícone do pacote ou uma imagem própria. A versão 1.7.56 reconhece o Aptoide automaticamente nos temas que usam os ícones do Radial e respeita a escolha manual.
 
-**Atualizações:** a PeraTV consulta novas versões sem exigir que você abra o botão. Quando encontra uma versão mais recente, exibe uma bolinha vermelha com o número 1. Ao abrir o painel, você compara a versão instalada com a publicada e decide se quer baixar. Após o download e a conferência de assinatura, o Android solicita a confirmação para instalar. As notas de “O que mudou na nossa última atualização” acompanham o APK e descrevem a versão instalada.
+| Paletas e planos de fundo | Ajustes de cor e vidro dos cartões |
+| --- | --- |
+| ![Paletas e planos de fundo](docs/capturas/fundos.webp) | ![Ajustes de cor e vidro dos cartões](docs/capturas/vidro.webp) |
 
-**Ferramentas:** o menu inclui explicações e mini tutoriais para Launcher Manager e remapeamento de botões. São aplicativos opcionais, instalados e configurados separadamente. O Launcher Manager pode ajudar quando a TV não mantém a PeraTV como tela inicial; ele não desbloqueia a instalação de APKs. A compatibilidade depende do aparelho e das permissões disponíveis.
+## Favoritos e todos os aplicativos
 
-**Colaboração:** Gostou da PeraTV? Faça uma doação pix e ajude a manter o projeto e suas próximas atualizações. Sua Contribuição faz a diferença!
+Em **Todos os apps**, segure **OK** para mover, adicionar aos favoritos, organizar em pastas, trocar o ícone ou ocultar um aplicativo. A ordem da grade é independente da ordem dos favoritos. Para recuperar um app oculto, abra **Aparência → Personalizar → Aplicativos ocultos**. O launcher também oferece backup e restauração das configurações.
 
-O QR code está no botão **Colaboração**, dentro da launcher. A contribuição é voluntária.
+![Grade de todos os aplicativos](docs/capturas/aplicativos.webp)
 
-O atalho **Otimizar**, nos temas em que aparece, abre o aplicativo escolhido pelo usuário. A PeraTV não promete limpar o cache ou liberar a memória de outros aplicativos por conta própria.
+## Clima, futebol e atalhos da TV
 
-## Novidades recentes
+- **Clima.** Selecione a cidade para consultar temperatura e condição do tempo pelo Open-Meteo. A tela informa o horário da última atualização.
+- **Jogos de hoje.** Consulte horários no fuso da TV, filtre as partidas ao vivo ou por região e abra uma partida com OK para ver detalhes. Em **Classificação**, escolha competição e temporada. Placares, escudos e informações de transmissão dependem da cobertura da ESPN.
+- **Atalhos.** Entradas, Wi-Fi, Bluetooth e Ajustes abrem os controles oferecidos pelo aparelho. No Original, **Meu atalho** e **Otimizar** podem abrir aplicativos escolhidos pelo usuário.
 
-- **Radial e Pilha:** dois layouts com versões clara e escura, integrados à seleção de temas.
-- **Radial sem páginas:** seis posições na mesma roda. O aplicativo escolhido ocupa a posição vazia; segure OK para trocar ou organizar um favorito.
-- **Pilha ajustável:** transparência de 0 a 100%, em passos de 1%, com preferência salva e logos e textos opacos.
-- **Ícones:** novos recursos visuais para YouTube, Downloader, Every Cine, Chrome, Netflix, Spotify, Prime Video, HBO, Play Store e exploradores de arquivos no Radial e na Pilha. O pack permite escolher manualmente; outros aplicativos mantêm seus próprios recursos.
-- **Futebol:** classificação por competição, temporada e grupos, com escudos e dados disponíveis na fonte.
-- **Atualização dentro da launcher:** comparação entre versão instalada e publicada, download interno e confirmação de instalação pelo Android.
-- **Aviso de atualização:** indicador vermelho com leitura ampliada no Radial e na Pilha, exibido apenas para uma versão mais recente.
-- **Colaboração:** mensagem de apoio via Pix atualizada, mantendo o QR code.
+| Agenda de jogos de futebol | Classificação do Brasileirão |
+| --- | --- |
+| ![Agenda de jogos de futebol](docs/capturas/jogos.webp) | ![Classificação do Brasileirão](docs/capturas/classificacao.webp) |
 
-Os temas Fluxo e Boreal foram retirados da seleção. As novidades acima são acumuladas de versões recentes, e não exclusivamente da 1.7.31. Os canais de transmissão dependem dos dados da fonte e ainda não estão disponíveis em todos os jogos.
+## Ferramentas da TV
 
-## O que foi desenvolvido e aprimorado
+Em **Aparência → Ferramentas**, há tutoriais para dois aplicativos opcionais. O **Launcher Manager** pode ajudar quando a TV volta à tela do fabricante ao pressionar a tecla de início. **Remapear botões** permite atribuir uma ação a uma tecla compatível. O resultado depende das permissões e das teclas disponíveis na TV.
 
-A evolução do projeto reúne oito composições de tela, personalização de imagens e ícones, organização de aplicativos e integrações de clima, futebol e atualizações. As versões recentes receberam ajustes de contraste nos temas claros, alinhamento dos botões, retorno aos menus de aparência, restauração visual e indicação de atualização disponível.
+![Ferramentas da TV e tutoriais](docs/capturas/ferramentas.webp)
 
-O painel de download também ganhou apresentação própria e reaproveitamento de downloads concluídos após validação. A seção de colaboração passou a usar o QR code indicado pelo criador, acompanhado de uma mensagem de apoio. Esses são avanços acumulados do projeto; consulte as notas de cada versão na área de lançamentos.
+## Atualizações, colaboração e suporte
 
-## Instalação e compatibilidade
+O PeraTV consulta as versões publicadas no GitHub. Uma bolinha vermelha no atalho **Atualizações** indica quando existe uma versão mais recente. Abra o painel para comparar as versões, baixar o APK e confirmar a instalação no Android. Para atualizar por cima e manter as configurações, o pacote e a assinatura precisam ser compatíveis.
 
-Baixe o APK na versão mais recente publicada. Para atualizar uma instalação compatível, instale por cima da versão anterior, mantendo o mesmo pacote e assinatura. O Android poderá solicitar autorização para instalar aplicativos dessa origem.
+A versão **1.7.56** tem APK de **19,71 MB**, acabamento de vidro no Âmbar e reconhecimento do ícone do Aptoide. Três fundos de anime passaram a usar compressão sem perdas.
 
-A seleção como tela inicial depende do sistema da TV. Antes de remover uma launcher que esteja definida como padrão, restaure uma tela inicial funcional. Os aplicativos mostrados nas capturas pertencem ao aparelho usado na demonstração; instalar a PeraTV não inclui esses serviços, conteúdos ou assinaturas.
-
-O efeito de vidro combina transparências, degradês e desfoque conforme o recurso e o aparelho. Sua aparência e a fluidez podem variar com o hardware; não há promessa de desfoque de sistema idêntico em todas as TVs.
-
-A galeria geral é uma montagem de apresentação editada com IA a partir das capturas enviadas; pequenos detalhes podem diferir. As quatro imagens individuais de Radial e Pilha, acima, são as capturas originais sem edição. As imagens de personalização e recursos reúnem capturas com títulos e legendas; as telas não foram redesenhadas. Algumas capturas registram mensagens temporárias de aplicação do tema. A captura do atualizador mostra uma instalação 1.7.19 encontrando a 1.7.20, como exemplo do fluxo de atualização.
-
-**Feito por Fernando.**
-
-**Se quiser Suporte ou quiser que faça ajustes de personalização etc. basta chamar no telegram @FernandoRGH**
+Para apoiar o projeto, abra **Colaboração** na TV e use o QR code Pix. Para suporte ou ajustes de personalização, fale com **Fernando** pelo [Telegram](https://t.me/FernandoRGH).
